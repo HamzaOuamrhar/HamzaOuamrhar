@@ -8,10 +8,10 @@
 ## 🛠️ Tech Stack
 
 **Languages & Tools:**  
-`Python` · `SQL` · `PySpark` · `Shell` · `Git` · `CI/CD`
+`Python` · `SQL` · `PySpark` · `Shell` · `Git`
 
 **Big Data & Processing:**  
-`Apache Spark` · `Apache Kafka` · `Apache Airflow` · `Hadoop`
+`Apache Spark` · `Apache Kafka` · `Apache Airflow`
 
 **Databases & Storage:**  
 `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `SQLite` · `Data Warehousing`
@@ -28,12 +28,6 @@ ENSA Khouribga, Morocco
 
 **💻 Software Engineering Program**  
 1337, 42 Network, Morocco
-
----
-
-## 🧠 Certifications
-
-- **IBM CI/CD Certificate**
 
 ---
 
