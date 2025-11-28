@@ -17,7 +17,7 @@
 `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `SQLite` · `Data Warehousing`
 
 **Cloud & DevOps:**  
-`AWS` · `Docker`
+`AWS` · `GCP` · `Docker` · `Terraform`
 
 ---
 
